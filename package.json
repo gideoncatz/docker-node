@@ -1,5 +1,5 @@
 {
-  "name": "hw-standalone",
+  "name": "docker-node",
   "version": "1.0.0",
   "description": "A hello-world app for dockerfor a brief docker session",
   "main": "index.js",
