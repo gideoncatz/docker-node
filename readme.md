@@ -17,6 +17,6 @@ docker run -p 3000:3000 my-hello-world
 ```
 
 If your local port 3000 is already taken replace the 3000 before the '`:`' with another port.
-After that, there will be two endpoints available for your browser (assuming port 3000):<br>
-http://localhost:3000
+After that, there will be two endpoints available for your browser (assuming port 3000):<br><br>
+http://localhost:3000<br>
 http://localhost:3000/api/items

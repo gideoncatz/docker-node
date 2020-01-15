@@ -22,5 +22,5 @@ app.get('/api/items', (req, res) => {
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
-  console.info(`Started app on port ${port}`);
+  console.info('Hello world app is running...');
 });
